@@ -1,16 +1,11 @@
 # flutter_balanca
 
-A new Flutter project.
+Exemplo de leitura de peso de uma balança Toledo Prix 3 via USB no T2s.
+
+Observação 1: A balança está configurada para velocidade 2400 e para o protocolo P05A que aguarda a solicitação do peso.
+
+Observação 2: A balança tem cabo serial e está conectada no T2s via adaptador USB-Serial.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Plugin utilizado [https://pub.dev/packages/usb_serial]

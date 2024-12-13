@@ -8,4 +8,4 @@ Observação 2: A balança tem cabo serial e está conectada no T2s via adaptado
 
 ## Getting Started
 
-Plugin utilizado [https://pub.dev/packages/usb_serial]
+Plugin utilizado https://pub.dev/packages/usb_serial

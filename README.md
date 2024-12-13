@@ -1,4 +1,4 @@
-# flutter_balanca
+# exemplo-leitura-balanca-t2s-tectoy
 
 Exemplo de leitura de peso de uma balança Toledo Prix 3 via USB no T2s.
 
